@@ -1,0 +1,11 @@
+C:\Users\sabdelatif\Dropbox\ORM\Microsoft Entity Framework Step by Step - 2013 - EF 5\SimpleEF\SimpleEF\bin\Debug\SimpleEF.exe.config
+C:\Users\sabdelatif\Dropbox\ORM\Microsoft Entity Framework Step by Step - 2013 - EF 5\SimpleEF\SimpleEF\bin\Debug\SimpleEF.exe
+C:\Users\sabdelatif\Dropbox\ORM\Microsoft Entity Framework Step by Step - 2013 - EF 5\SimpleEF\SimpleEF\bin\Debug\SimpleEF.pdb
+C:\Users\sabdelatif\Dropbox\ORM\Microsoft Entity Framework Step by Step - 2013 - EF 5\SimpleEF\SimpleEF\bin\Debug\EntityFramework.dll
+C:\Users\sabdelatif\Dropbox\ORM\Microsoft Entity Framework Step by Step - 2013 - EF 5\SimpleEF\SimpleEF\bin\Debug\EntityFramework.xml
+C:\Users\sabdelatif\Dropbox\ORM\Microsoft Entity Framework Step by Step - 2013 - EF 5\SimpleEF\SimpleEF\obj\Debug\SimpleEF.csprojResolveAssemblyReference.cache
+C:\Users\sabdelatif\Dropbox\ORM\Microsoft Entity Framework Step by Step - 2013 - EF 5\SimpleEF\SimpleEF\obj\Debug\SimpleEF.Form1.resources
+C:\Users\sabdelatif\Dropbox\ORM\Microsoft Entity Framework Step by Step - 2013 - EF 5\SimpleEF\SimpleEF\obj\Debug\SimpleEF.Properties.Resources.resources
+C:\Users\sabdelatif\Dropbox\ORM\Microsoft Entity Framework Step by Step - 2013 - EF 5\SimpleEF\SimpleEF\obj\Debug\SimpleEF.csproj.GenerateResource.Cache
+C:\Users\sabdelatif\Dropbox\ORM\Microsoft Entity Framework Step by Step - 2013 - EF 5\SimpleEF\SimpleEF\obj\Debug\SimpleEF.exe
+C:\Users\sabdelatif\Dropbox\ORM\Microsoft Entity Framework Step by Step - 2013 - EF 5\SimpleEF\SimpleEF\obj\Debug\SimpleEF.pdb
